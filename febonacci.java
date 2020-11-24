@@ -1,4 +1,4 @@
-package firstJavaProject;
+
 import java.util.Scanner;
 
 public class febonacci {
