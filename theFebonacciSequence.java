@@ -1,10 +1,13 @@
-package firstJavaProject;
+package com.chijarira.fibonachi;
 
 public class theFebonacciSequence {
 
 	public static void main(String[] args) {
 		
-		febonacci.requestNumber();
-	}
+		//febonacci.requestNumber();
+		
+		palindrome.isPalindrome("racecar");
+		
+			}
 
 }
